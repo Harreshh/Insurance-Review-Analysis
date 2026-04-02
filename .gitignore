@@ -1,0 +1,6 @@
+.DS_Store
+Screen Recording.mov
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+models/
