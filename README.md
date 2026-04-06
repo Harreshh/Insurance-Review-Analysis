@@ -1,3 +1,7 @@
+#Team
+Harreshh MOUROUGAN
+Kishan Kumar MANTHRI
+
 # 🚀 NLP Project for Insurance Review Analysis
 
 This is a comprehensive NLP project that involves building both supervised and unsupervised learning models for insurance review analysis, and deploying them in interactive web applications.
