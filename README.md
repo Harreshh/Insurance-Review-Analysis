@@ -1,6 +1,6 @@
 # Team
-Harreshh MOUROUGAN
-Kishan Kumar MANTHRI
+- Harreshh MOUROUGAN
+- Kishan Kumar MANTHRI
 
 # 🚀 NLP Project for Insurance Review Analysis
 
